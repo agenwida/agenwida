@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vishnu aka @agenwida
+- 👋 Hi, I’m Vishnu S Darsan aka @agenwida
 - 👀 I’m a Frontend Developer
-- 🌱 Probably I would be creating some awesome websites for those who need 
-- 💞️ I’m looking to collaborate on anywhere competetive
+- 🌱 Probably I would be developing some awesome websites 
 - 📫 Reach me @https://github.com/agenwida or vishnu4693@gmail.com 
 
 <!---
